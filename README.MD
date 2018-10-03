@@ -7,6 +7,7 @@
   - Docker Compose
   
 ## Доступ к проекту:
+ - Проверить, есть ли доступ к [следующему проекту](http://qa-gitlab.itransition.corp/self-education/probation-task-sources). В случае отсутствия - запросить доступ у проверяющего.
  - В файле **docker-compose.yml** для переменных **GIT_USD**, **GIT_PWD** указать
  свой логин и пароль для доступа в GitLab.
  
