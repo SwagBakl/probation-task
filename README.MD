@@ -1,4 +1,4 @@
-# **Docker Test Task**
+# **Environment for Test Developer task**
 
 Для запуска приложения необходимо:
 
